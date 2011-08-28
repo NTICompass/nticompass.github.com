@@ -11,3 +11,12 @@ html{
 	right: 0;
 	border: 0;
 }
+
+#valid{
+	float: left !important;
+}
+
+#html5{
+	width: 82.5px;
+	height: 32px;
+}
