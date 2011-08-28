@@ -1,0 +1,13 @@
+html{
+	text-align: center;
+	background-image: url(images/wallpaper.jpg); /* http://www.grsites.com */
+	background-attachment: fixed;
+	color: black;
+}
+
+#github{
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+}
